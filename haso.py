@@ -13,7 +13,7 @@ logger = logging.getLogger("ANTi")
 logger.info("النشر التلقائي شغال الان استمتع ✓")
 
 yaAli = False
-async def aljoker_nshr(ANTi, sleeptimet, chat, message, seconds):
+async def aljoker_nshr(tt, sleeptimet, chat, message, seconds):
     global yaAli
     yaAli = True
     while yaAli:
