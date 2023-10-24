@@ -1,14 +1,14 @@
 {
-    "name": "حسـ313ـو",
-    "description": "اهلا بكم في تنصيب النشر التلقائي الخاص بسورس الجوكر",
+    "name": "ANTi",
+    "description": "اهلا بكم في تنصيب النشر التلقائي الخاص بسورس ANTi",
     "logo": "",
     "stack": "container",
-    "repository": "https://t.me/jepthon",
-    "keywords": ["python", "chatbot", "telegrambot"],
-    "website": "https://t.me/jepthon",
+    "repository": "S",
+    "keywords": ["SSS", "SS", "S"],
+    "website": "S",
     "env": {
         "SESSION": {
-            "description": "ضع كود التيرمكس الذي استخرجته من بوت الجوكر",
+            "description": "ضع كود التيرمكس الذي استخرجته من بوت S",
             "value": "",
             "required": true
         },
